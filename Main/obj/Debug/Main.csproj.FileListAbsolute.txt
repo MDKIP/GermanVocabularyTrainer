@@ -1,0 +1,13 @@
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Main\bin\Debug\Main.exe.config
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Main\bin\Debug\Main.exe
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Main\bin\Debug\Main.pdb
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Main\bin\Debug\Library.dll
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Main\bin\Debug\Library.pdb
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Main\obj\Debug\Main.csprojAssemblyReference.cache
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Main\obj\Debug\Main.csproj.CopyComplete
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Main\obj\Debug\Main.exe
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Main\obj\Debug\Main.pdb
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Main\bin\Debug\GUI_WindowsForms.dll
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Main\bin\Debug\GUI_WindowsForms.pdb
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Main\bin\Debug\GUI_WindowsForms.dll.config

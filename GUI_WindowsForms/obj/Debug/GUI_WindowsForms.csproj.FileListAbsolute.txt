@@ -1,0 +1,14 @@
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\GUI_WindowsForms\obj\Debug\GUI_WindowsForms.csprojAssemblyReference.cache
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\GUI_WindowsForms\obj\Debug\GUI_WindowsForms.FormTraining.resources
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\GUI_WindowsForms\obj\Debug\GUI_WindowsForms.Properties.Resources.resources
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\GUI_WindowsForms\obj\Debug\GUI_WindowsForms.csproj.GenerateResource.cache
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\GUI_WindowsForms\obj\Debug\GUI_WindowsForms.csproj.CoreCompileInputs.cache
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\GUI_WindowsForms\bin\Debug\GUI_WindowsForms.dll.config
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\GUI_WindowsForms\bin\Debug\GUI_WindowsForms.dll
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\GUI_WindowsForms\bin\Debug\GUI_WindowsForms.pdb
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\GUI_WindowsForms\bin\Debug\Library.dll
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\GUI_WindowsForms\bin\Debug\Library.pdb
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\GUI_WindowsForms\obj\Debug\GUI_WindowsForms.csproj.CopyComplete
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\GUI_WindowsForms\obj\Debug\GUI_WindowsForms.dll
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\GUI_WindowsForms\obj\Debug\GUI_WindowsForms.pdb
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\GUI_WindowsForms\obj\Debug\GUI_WindowsForms.FormAddWord.resources

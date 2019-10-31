@@ -1,0 +1,6 @@
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Library\bin\Debug\Library.dll
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Library\bin\Debug\Library.pdb
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Library\obj\Debug\Library.csprojAssemblyReference.cache
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Library\obj\Debug\Library.dll
+F:\Projekty\Projekty Visual Studio\GermanVocabularyTrainer\Library\obj\Debug\Library.pdb
